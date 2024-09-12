@@ -1,7 +1,7 @@
 Social Media Ostracism
 ======================
 
-This is an interactive experimental paradigm, designed to manipulate feelings of social exclusion (ostracism) in an environment resembling a social media platform. The paradigm was designed by Ana Levordashka, Wouter Wolf, Johanna Ruff, and Steven Kraaijeveld (VU University), under the supervision of Prof. Dr. Kip Williams (Purdue University), and programmed by Jan-Matthis Lueckmann.
+This is an interactive experimental paradigm, designed to manipulate feelings of social exclusion from a majority outgroup in an environment resembling a social media platform. The paradigm was designed by Ana Levordashka, Wouter Wolf, Johanna Ruff, and Steven Kraaijeveld (VU University), under the supervision of Prof. Dr. Kip Williams (Purdue University), and programmed by Jan-Matthis Lueckmann.
 
 
 Documentation
